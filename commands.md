@@ -6,7 +6,7 @@ You can view, edit, and create commands on https://beamcast.app/dashboard.
 
 ## Create a command
 
-A command is made of a title and a prompt. The title is used to identify the command in panel when you select text. The prompt is the message sent to ChatGPT API.
+A command is made of a title and a prompt. The title is used to identify the command in the popup panel when you select text. The prompt is the message sent to ChatGPT API.
 
 For example, you can create a command to generate a poem based on selected text:
 
