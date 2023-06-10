@@ -4,9 +4,17 @@ Beamcast works on all Chromium-based browsers, including Chrome, Edge, Brave, et
 
 For Firefox, you can download it on [Firefox add-ons](https://addons.mozilla.org/firefox/addon/beamcast/).
 
+## Toolbar icon
+
+After installing the extension you can pin the extension icon to your browser toolbar:
+
+![toolbar icon](https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/x5MDOJ.png)
+
+You can click the icon to manage all your AI commands and your account.
+
 ## Firefox
 
-After installing the extension on Firefox, please pin the extension icon to the browser toolbar and right click the icon to select "Manage Extension", then click "Permissions" and give it the permission to access your data for all websites:
+After installing the extension on Firefox, right click the extension icon to select "Manage Extension", then click "Permissions" and give it the permission to access your data for all websites:
 
 ![set permissions](https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/IukbCY.png)
 
