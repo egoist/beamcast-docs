@@ -19,7 +19,7 @@ After adding it, you can select text and use it to generate a poem:
 
 ## Selected text
 
-Beamcast automatically injects the selected text into the request being sent to ChatGPT API, you can use refer the the selected text using "the text" or "the selected text" in the prompt. For example:
+Beamcast automatically injects the selected text into the request being sent to ChatGPT API, you can refer to the selected text using "the text" or "the selected text" in the prompt. For example:
 
 ```
 Generate a poem based on the selected text.
