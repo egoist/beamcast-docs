@@ -17,6 +17,10 @@ export default defineConfig({
         text: "Guide",
         items: [
           { text: "Introduction", link: "/" },
+          {
+            text: "Extensions",
+            link: "/extensions",
+          },
           { text: "Commands", link: "/commands" },
         ],
       },
