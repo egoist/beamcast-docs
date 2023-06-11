@@ -23,6 +23,7 @@ export default defineConfig({
     editLink: {
       pattern: "https://github.com/egoist/beamcast-docs/blob/main/:path",
     },
+    darkModeSwitchLabel: "",
 
     sidebar: [
       {
@@ -34,6 +35,7 @@ export default defineConfig({
             link: "/extensions",
           },
           { text: "Commands", link: "/commands" },
+          { text: "Shortcuts", link: "/shortcuts" },
         ],
       },
     ],
