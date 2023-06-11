@@ -20,6 +20,10 @@ export default defineConfig({
       provider: "local",
     },
 
+    editLink: {
+      pattern: "https://github.com/egoist/beamcast-docs/blob/main/:path",
+    },
+
     sidebar: [
       {
         text: "Guide",
