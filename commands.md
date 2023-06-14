@@ -37,6 +37,8 @@ You can use variables in the command prompt to access some specifial data:
 
 - `my_language`: The default language setting in your browser.
 - `text_language`: The language of the selected text.
+- `page_content`: The content of the current page.
+- `page_url`: The URL of the current page.
 
 The way you use variables is to wrap them with double curly braces, for example:
 
